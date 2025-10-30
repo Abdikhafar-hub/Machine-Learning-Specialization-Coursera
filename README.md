@@ -1,4 +1,4 @@
-command to get the discussion g
+command to get the discussion 
 
 
 
