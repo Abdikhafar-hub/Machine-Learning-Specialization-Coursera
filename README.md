@@ -1,4 +1,4 @@
-command to get the discussion group
+command to get the discussion grou
 
 
 
