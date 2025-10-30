@@ -1,4 +1,4 @@
-command to get the discussion
+command to get the discussio
 
 
 
