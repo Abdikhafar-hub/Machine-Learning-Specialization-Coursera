@@ -1,6 +1,6 @@
 command to get the discuss
 
-read
+23:44 time zone 
 
 ![](/resources/title-head.png)
 
