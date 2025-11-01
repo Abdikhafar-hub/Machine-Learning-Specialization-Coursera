@@ -1,5 +1,5 @@
 command to get 
-hub.
+hub
 
 ![](/resources/title-head.png)
 
