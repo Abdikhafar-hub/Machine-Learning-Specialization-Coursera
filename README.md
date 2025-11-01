@@ -1,5 +1,5 @@
 command to get 
-hub.com
+hub.co
 
 ![](/resources/title-head.png)
 
