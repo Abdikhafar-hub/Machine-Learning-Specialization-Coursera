@@ -1,4 +1,4 @@
-command to get 
+command to ge
 
 
 ![](/resources/title-head.png)
