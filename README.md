@@ -1,5 +1,5 @@
 command to get 
-hu
+h
 
 ![](/resources/title-head.png)
 
