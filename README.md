@@ -1,4 +1,4 @@
-command t
+command 
 
 
 ![](/resources/title-head.png)
