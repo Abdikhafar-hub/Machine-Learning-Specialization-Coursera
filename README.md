@@ -1,4 +1,4 @@
-c
+wc
 
 
 ![](/resources/title-head.png)
