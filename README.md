@@ -1,4 +1,4 @@
-njj
+nj
 
 
 ![](/resources/tihtle-head.png)
