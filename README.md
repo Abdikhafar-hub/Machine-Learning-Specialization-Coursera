@@ -1,5 +1,5 @@
 nnkbmbmkjjkbnjjbjjjkjjkssssdsnhjsgssmmdddddmmmnmmsssmmmmssssssssdddddssdsdddddssssssssssaaawwaaaawammnmwammmmswmxawlaaxsasaassassssaaaaraazazzzazzzmmrnmmmamammmaaaarrrrrrrrrrr444ms
-![](/resources/tihtle-hsead.png)hdmmnmmmrrrrnmmmssssssssswwwwwwwwwwwwmmmmmmmmmmmssssssssssssszzzsddddddd
+![](/resources/tihtle-hsead.png)hdmmnmmmrrrrnmmmssssssssswwwwwwwwwwwwmmmmmmmmmmmssssssssssssszzzsdddddddd
 td
 Contains Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) by Andrew NG on Coursera 
 
